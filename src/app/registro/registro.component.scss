@@ -1,0 +1,154 @@
+#iniciousuario2{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  position: absolute;
+  width: 271px;
+  height: 48px;
+  left: 715px;
+  top: 26px;
+  border: 2px solid #FFFFFF;
+  border-radius: 4px;
+}
+#placeholderusuario2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+  isolation: isolate;
+  position: fixed;
+  width: 271px;
+  height: 48px;
+  left: 715px;
+  top: 26px;
+  border: 2px solid #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+  background-color:rgba(53, 34, 85, 0);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+#labeltextusuario2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 4px;
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  left: 727px;
+  top: 14px;
+  background: #8F60CB;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+#inicioclave3{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  position: absolute;
+  width: 271px;
+  height: 48px;
+  left: 1047px;
+  top: 26px;
+  border: 2px solid #FFFFFF;
+  border-radius: 4px;
+}
+#placeholderclave3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+  isolation: isolate;
+  position: fixed;
+  width: 271px;
+  height: 48px;
+  left: 1047px;
+  top: 26px;
+  border: 2px solid #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+  background-color:rgba(53, 34, 85, 0);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+#labeltextclave3{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 4px;
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  left: 1059px;
+  top: 14px;
+  background: #8F60CB;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+#validacion{
+  position: absolute;
+  width: 520px;
+  height: 247px;
+  left: 800px;
+  top: 351.99px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #FFFFFF;
+}
+#iniciar2{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 92px;
+  height: 36px;
+  left: 1334px;
+  top: 30px;
+  background: #8F60CB;
+  border: 1px solid #000000;
+  border-radius: 8px;
+}

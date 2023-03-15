@@ -1,0 +1,48 @@
+#salir{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 92px;
+  height: 36px;
+  left: 1334px;
+  top: 30px;
+  background: #8F60CB;
+  border: 1px solid #000000;
+  border-radius: 8px;
+}
+#estadisticas{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 236px;
+  height: 40px;
+  left: 900px;
+  top: 605.99px;
+  background: #8F60CB;
+  border: 1px solid #000000;
+  border-radius: 8px;
+}
+#perfil{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 236px;
+  height: 40px;
+  left: 900px;
+  top: 305.99px;
+  background: #8F60CB;
+  border: 1px solid #000000;
+  border-radius: 8px;
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id":"001",
+    "archivo":"hoja de vida",
+    "status": false
+  },
+  {
+    "id":"002",
+    "archivo":"hoja de vida",
+    "status": false
+  }
+]
